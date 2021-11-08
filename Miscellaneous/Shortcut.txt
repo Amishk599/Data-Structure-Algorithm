@@ -1,0 +1,5 @@
+command pallette : ctrl + shift + P
+multiple cursors: ctrl + alt + up/down
+duplicate code: alt + shift + up/down
+move code up or down: alt + up/down
+show/hide terminal : ctrl + `
